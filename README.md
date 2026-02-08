@@ -1,2 +1,3 @@
 # HenOS
-Building a custom operating system.
+
+Building a simple custom operating system.
